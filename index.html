@@ -1055,19 +1055,7 @@
     function createDefaultSampleData() {
       const now = Date.now();
       pages = [
-        {
-  id: generateId(),
-  type: "url",
-  title: "Cheval de Quatre · Journal d'une erreur de casting",
-  description: "Mini-site bidon sur l’espionnage industriel politico-médiatique, vu par une personne lambda à qui on a confié un logiciel ultra sensible par erreur.",
-  folder: "Dossiers",
-  tags: ["espionnage", "industrie", "médias", "cheval-de-quatre"],
-  // ⚠️ Mets ici l'URL réelle où tu as publié cheval-de-quatre.html :
-  url: "http://localhost/cheval-de-quatre.html",
-  // ou par ex. "https://ton-domaine.test/cheval-de-quatre.html"
-  createdAt: now - 15000,
-  searchText: ""
-},
+        
 
         {
           id: generateId(),
@@ -1102,6 +1090,19 @@
           createdAt: now - 25000,
           searchText: ""
         },
+        {
+  id: generateId(),
+  type: "url",
+  title: "Cheval de Quatre · Journal d'une erreur de casting",
+  description: "Mini-site bidon sur l’espionnage industriel politico-médiatique, vu par une personne lambda à qui on a confié un logiciel ultra sensible par erreur.",
+  folder: "Dossiers",
+  tags: ["espionnage", "industrie", "médias", "cheval-de-quatre"],
+  // ⚠️ Mets ici l'URL réelle où tu as publié cheval-de-quatre.html :
+  url: "http://localhost/cheval-de-quatre.html",
+  // ou par ex. "https://ton-domaine.test/cheval-de-quatre.html"
+  createdAt: now - 15000,
+  searchText: ""
+}
         
       ];
       pages.forEach(p => p.searchText = buildSearchText(p));
