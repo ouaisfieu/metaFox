@@ -1,0 +1,98 @@
+{
+  "exportedAt": "2025-11-27T10:02:42.845Z",
+  "pages": [
+    {
+      "id": "p_mih8eogc_w1dfp",
+      "type": "url",
+      "title": "Portail de veille MetaFox",
+      "description": "Une page fictive qui centralise toutes tes missions de veille citoyenne.",
+      "folder": "Veille",
+      "tags": [
+        "veille",
+        "citoyenne",
+        "faux-web"
+      ],
+      "url": "https://example.com/meta-veille",
+      "createdAt": 1764235638956,
+      "searchText": "portail de veille metafox une page fictive qui centralise toutes tes missions de veille citoyenne. veille veille citoyenne faux-web url https://example.com/meta-veille "
+    },
+    {
+      "id": "p_mih8eogc_wrzvr",
+      "type": "note",
+      "title": "Brief : Projet secret 12,50",
+      "description": "Note interne sur le concours statique 12,50 et les prochaines étapes.",
+      "folder": "Projets",
+      "tags": [
+        "jeu",
+        "concours",
+        "static-site"
+      ],
+      "noteContent": "Objectif : construire un faux Internet citoyen ultra ludique. Étapes : 1) Prototype 2) Tests 3) Lancement.",
+      "createdAt": 1764235688956,
+      "searchText": "brief : projet secret 12,50 note interne sur le concours statique 12,50 et les prochaines étapes. projets jeu concours static-site note  objectif : construire un faux internet citoyen ultra ludique. étapes : 1) prototype 2) tests 3) lancement."
+    },
+    {
+      "id": "p_mih8eogc_ovizk",
+      "type": "url",
+      "title": "Intranet fictif « Organisation »",
+      "description": "Démo d’un intranet d’intelligence économique totalement imaginaire.",
+      "folder": "Dossiers",
+      "tags": [
+        "intranet",
+        "intelligence",
+        "organisation"
+      ],
+      "url": "https://example.com/organisation",
+      "createdAt": 1764235713956,
+      "searchText": "intranet fictif « organisation » démo d’un intranet d’intelligence économique totalement imaginaire. dossiers intranet intelligence organisation url https://example.com/organisation "
+    },
+    {
+      "id": "p_mih8iace_8zkoq",
+      "type": "url",
+      "title": "titre",
+      "description": "magasin cool",
+      "folder": "Veille",
+      "tags": [
+        "goodies"
+      ],
+      "url": "https://dl.ouaisfi.eu",
+      "createdAt": 1764235907294,
+      "searchText": "titre magasin cool veille goodies url https://dl.ouaisfi.eu "
+    },
+    {
+      "id": "p_mih8wppi_8sktx",
+      "type": "url",
+      "title": "Rémi",
+      "description": "un poto",
+      "folder": "Inbox",
+      "tags": [
+        "projet"
+      ],
+      "url": "https://dl.ouaisfi.eu/gifs/rems.gif",
+      "createdAt": 1764236580390,
+      "searchText": "rémi un poto inbox projet url https://dl.ouaisfi.eu/gifs/rems.gif "
+    },
+    {
+      "id": "p_mih9kcaf_seyj7",
+      "type": "url",
+      "title": "OVNI",
+      "description": "ceci est COMPLÈTEMENT DINGUE !",
+      "folder": "Projets",
+      "tags": [
+        "fictif",
+        "connard"
+      ],
+      "url": "https://mouse-dun.vercel.app/",
+      "createdAt": 1764237682743,
+      "searchText": "ovni ceci est complètement dingue ! projets fictif connard url https://mouse-dun.vercel.app/ "
+    }
+  ],
+  "folders": [
+    "Tous",
+    "Inbox",
+    "Veille",
+    "Dossiers",
+    "Projets",
+    "Archives"
+  ]
+}
